@@ -1,3 +1,8 @@
+
+/// nothing related to project
+// created this file just for practice
+
+
 const { number } = require('yargs')
 const yargs= require('yargs')
 
